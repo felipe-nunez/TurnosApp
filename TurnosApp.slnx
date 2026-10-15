@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TurnosApp.Api/TurnosApp.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TurnosApp.Tests/TurnosApp.Tests.csproj" />
+  </Folder>
+</Solution>
